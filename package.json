@@ -1,0 +1,15 @@
+{
+  "name": "exer01",
+  "version": "1.0.0",
+  "description": "'JS program to compare two objects, if the booth are equals.'",
+  "main": "exer01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jsFundamentalExercises"
+  },
+  "author": "Karolina Santos",
+  "license": "ISC"
+}
